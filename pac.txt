@@ -26,6 +26,13 @@ var rules = [
   ".github.com",
   "||visualstudio.com",
   ".visualstudio.com",
+  "||steampowered.com",
+  "||qualcomm.com",
+  "||epicgames.com",
+  "||theporndude.com",
+  "||blog.csdn.net",
+  "||arcgis.com",
+  "||chineseinla.com",
 // end user 添加
 
   ".360converter.com",
